@@ -12,4 +12,4 @@ function resHeader(){
     )
 }
 
-export default Header;
+export default resHeader;

@@ -1,4 +1,4 @@
-function resHeader(){
+function ResHeader(){
     return(
         <>
         <nav className="navbar navbar-light bg-light" >
@@ -10,4 +10,4 @@ function resHeader(){
     )
 }
 
-export default resHeader;
+export default ResHeader;

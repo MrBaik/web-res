@@ -4,7 +4,7 @@
 // import './App.css'
 
 
-import resHeader from "./components/header";
+import ResHeader from "./components/header";
 
 
 
@@ -14,7 +14,7 @@ function App() {
   return (
     <>
        
-<resHeader />
+<ResHeader />
 
 
 

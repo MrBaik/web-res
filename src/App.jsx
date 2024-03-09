@@ -14,7 +14,7 @@ function App() {
   return (
     <>
        
-<ResHeader />
+ <H1>Test</H1>
 
 
 

@@ -6,7 +6,7 @@ import ResHeader from './components/header.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
- 
+ <ResHeader/>
     <App />
   </React.StrictMode>,
 )
